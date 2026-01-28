@@ -1,8 +1,15 @@
 # Changelog
 
+## 0.1.6
+
+### Patch Changes
+
+- 572c3ca: Simplify `skills list` command to show all detected IDE skill directories without prompts.
+
 ## 0.1.5
 
 ### Improvements
+
 - Improved skill selection UX with metadata panel showing Skill, Repo, and Description
 - Clickable links in metadata (Skill → context7.com, Repo → GitHub)
 - Display install counts next to skill names (e.g., `↓100+`, `↓50+`)
